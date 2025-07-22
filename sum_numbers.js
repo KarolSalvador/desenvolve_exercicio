@@ -1,6 +1,7 @@
+//1. Função tradicional (somar 2 numeros)
+
 function somaDoisNumeros(num1, num2) {
-  let sum = num1 + num2;
-  return sum;
+  return num1 + num2;
 }
 
 let resultado = somaDoisNumeros(2, 3);
