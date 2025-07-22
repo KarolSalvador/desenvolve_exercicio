@@ -1,3 +1,5 @@
+//1. Função tradicional (somar 2 numeros)
+
 function somaDoisNumeros(num1, num2) {
   return num1 + num2;
 }
